@@ -1,7 +1,7 @@
 
 body{
-   background-color:rgba(157, 185, 245, 0.753);
-   color: black;
+   background-color:rgba(216, 209, 170, 0.753);
+   color: hwb(0 0% 97%);
 }
 
 .paragraph-style{
