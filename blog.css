@@ -1,3 +1,9 @@
+
+body{
+   background-color:rgba(157, 185, 245, 0.753);
+   color: black;
+}
+
 .paragraph-style{
    margin: 0 30px 0 30px;
    font-size: 24px;
