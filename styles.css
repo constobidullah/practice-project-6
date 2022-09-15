@@ -141,6 +141,18 @@ button {
   cursor: pointer;
 }
 
+.blog-link a {
+  padding: 15px 10px ;
+  border: 2px solid rgb(105, 208, 255);
+  text-decoration: none;
+  color: white;
+  width: 350px;
+  height: 50px;
+  text-align: center;
+  background-color: #171717;
+  border-radius: 10px;
+  margin: 0 300px 0 520px;
+}
 
 #histories {
   display: flex;
