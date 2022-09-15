@@ -141,6 +141,7 @@ button {
   cursor: pointer;
 }
 
+
 #histories {
   display: flex;
   flex-wrap: wrap;
@@ -196,13 +197,14 @@ button {
     padding: 0 20px;
     width: 100%;
   }
+
   #histories {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     margin : 20px;
   }
   
-  .card{
+  .card {
     width: 95%;
     height: 95%;
   }
